@@ -1,0 +1,4 @@
+I imported Mery instead of creating a reference so my files are too large for Github and LMS. 
+I zipped and uploaded it onto Google Drive. You can access the Maya files here:
+
+https://drive.google.com/drive/folders/0B_bFz5_fcUFHeFVQd0Q4a0V1M3M
